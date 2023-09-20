@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @superPantsXXXIII
-- 👀 I’m interested in ...
+- 👀 I’m interested in current and emerging technologies 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new and interesting projects
 - 📫 How to reach me through my email -> idono63@gmail.com 
 
 <!---
